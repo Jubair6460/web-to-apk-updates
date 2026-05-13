@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "versionCode": 1,
+  "downloadUrl": "https://github.com/Jubair6460/web-to-apk-maker/releases/download/v1.0.0/web-to-apk-v1.0.0.apk",
+  "changelog": "🎉 Initial release!\n\n✅ WebView wrapper with full customization\n✅ Auto update dialog\n✅ Telegram join dialog\n✅ Navigation drawer\n✅ Pull to refresh\n✅ Offline error page",
+  "forceUpdate": false,
+  "releaseDate": "2026-05-13T00:00:00Z",
+  "poweredBy": "Jubair Sensei",
+  "developerUrl": "https://jubair.bro.bd"
+}
